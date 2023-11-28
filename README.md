@@ -1,5 +1,5 @@
 # Stock-Management-System
-# Web Development Intern
+
  Interned at Shivaji University Kolhapur, as Web Developer in front-end development and
 designed an intuitive user-interface for Stock Management System which helps to track all
 the items such as furniture, computers, other small equipment etc. using HTML, CSS, JS, Bootstrap5, Asp.Net.
